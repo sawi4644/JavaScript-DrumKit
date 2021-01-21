@@ -1,5 +1,5 @@
 # JavaScript-DrumKit
-A drum kit using the keyboard to make drum sounds
+A drum kit made with html, css, and mostly javascript, using the keyboard to make drum sounds
 
 ## Credits
 wesbos JavaScript 30
