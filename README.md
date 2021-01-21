@@ -14,9 +14,8 @@ A drum kit made with html, css, and mostly javascript, using the keyboard to mak
   ## Installation
   fork code into VS Code, open terminal, run npm i in the command line, then run node index.js 
   ## Usage
-  ![readme demo](/utils/readme-shot.png)
-  
-  https://drive.google.com/file/d/1UYhChtz3FZ-pHiIiSC3hmtYyuXEXhIu5/view
+  ![drumkit demo](/drum.png)
+ 
   
   ## Contribution
   Yes, I am open to contributions
