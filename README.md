@@ -1,21 +1,20 @@
 ## JavaScript-DrumKit
-A drum kit made with html, css, and mostly javascript, using the keyboard to make drum sounds
+Vanilla JavaScript coded drum kit
 
   ## Table of Contents
   - [Description](#description)
-  - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
-  - [Test](#test)
-  - [License](#license)
   - [Questions](#questions)
+  
   ## Description
-  A node application that allows you to generate a simple and clean readme.md markdown for your projects!
-  ## Installation
-  fork code into VS Code, open terminal, run npm i in the command line, then run node index.js 
+  A drum kit made with html, css, and mostly javascript, using the keyboard to make drum sounds
+   
+  
   ## Usage
   ![drumkit demo](/drum.png)
  
+  Use keys A,S,D,F,G,H,J,K,L to play different drum kit sounds. The keys will animate when pressed.
   
   ## Contribution
   Yes, I am open to contributions
